@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.banner {
+    height: 350px;
+    display: flex;
+    align-items: center;
+}
+
+.banner h1 {
+    font-size: 40px;
+}
+
+.banner p {
+    font-size: 18px;
+}
+
+@media (max-width: 576px) {
+    .banner {
+        height: 280px;
+    }
+
+    .banner h1 {
+        font-size: 30px;
+    }
+}
