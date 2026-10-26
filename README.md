@@ -17,4 +17,4 @@ Página inicial de uma loja online de jogos desenvolvida como atividade prática
 * Seção de newsletter e rodapé completo
 
 ## Demonstração
-O projeto está publicado e pode ser acedido através do link: [Cole aqui o link do GitHub Pages]
+O projeto está publicado e pode ser acedido através do link: https://ifgabriel07.github.io/BSI-Loja/
